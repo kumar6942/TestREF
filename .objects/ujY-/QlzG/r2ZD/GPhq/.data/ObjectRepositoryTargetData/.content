@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Eqt7cN5Rh0KDTf_GZ_NDVA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="66d48f6e-928b-451d-ae08-889f828e9b93" CvElementArea="332, 168, 123, 25" CvType="InputBox" DesignTimeRectangle="333, 169, 120, 23" DesignTimeScaleFactor="1" ElementType="InputBox" FullSelectorArgument="&lt;ctrl automationid='cashintb' /&gt;" FuzzySelectorArgument="&lt;ctrl automationid='cashintb' role='editable text' /&gt;" Guid="d3efff11-66d2-4308-b2e9-f658dae4026a" IsResponsive="True" ScopeSelectorArgument="&lt;wnd app='uidemo.exe' cls='HwndWrapper*' title='UIDemo' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="66d48f6e-928b-451d-ae08-889f828e9b93" CvTextArea="263, 172, 50, 13" CvTextArgument="Cash In" CvType="Text" DesignTimeRectangle="264, 171, 48, 16" ElementType="Text" FullSelectorArgument="&lt;ctrl name='Cash In' role='text' /&gt;&lt;ctrl name='Cash In' role='text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Cash In' role='text' /&gt;&lt;ctrl name='Cash In' role='text' automationid='' check:text='Cash In' /&gt;" Guid="05e61dcf-924d-4552-a38f-f1664d445018" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b24f806f2a878b8cb2326f6143f4f241.png" xmlns="">0IjoxKC3eTESvVkT9LY2MFw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="-hPaN1lIH0in7QEDPtTRFA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="0b1728e7-0fff-4dca-a56f-debb7d1a8614" CvElementArea="440, 545, 82, 33" CvTextArea="461, 555, 39, 14" CvTextArgument="Accept" CvType="Button" DesignTimeRectangle="441, 546, 80, 31" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;ctrl name='Accept' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Accept' role='push button' automationid='' check:text='Accept' /&gt;" Guid="4ce396e5-1fb3-40da-aa5b-7bb875b84e7a" ScopeSelectorArgument="&lt;wnd app='uidemo.exe' cls='HwndWrapper*' title='UIDemo' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="0b1728e7-0fff-4dca-a56f-debb7d1a8614" CvElementArea="440, 545, 82, 33" CvTextArea="461, 555, 39, 14" CvTextArgument="Accept" CvType="Button" DesignTimeRectangle="463, 555, 36, 13" ElementType="Text" FullSelectorArgument="&lt;ctrl name='Accept' role='push button' /&gt;&lt;ctrl name='Accept' role='text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Accept' role='push button' /&gt;&lt;ctrl name='Accept' role='text' automationid='' check:text='Accept' /&gt;" Guid="6170282e-e7d5-4bfd-aa32-db9885488bed" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="02ac9c06b4b65fa5a45bbefe6575b1f2.png" xmlns="">0taMt59RbeU23rAgz7XOUNQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

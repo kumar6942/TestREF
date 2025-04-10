@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="y9gF8PSiLU2TQ8qF73w9kg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="8ca08481-9f9f-42df-9470-5eba7ef60d67" CvElementArea="110, 90, 122, 24" CvType="InputBox" DesignTimeRectangle="111, 91, 120, 23" DesignTimeScaleFactor="1" ElementType="InputBox" FullSelectorArgument="&lt;ctrl automationid='user' /&gt;" FuzzySelectorArgument="&lt;ctrl automationid='user' role='editable text' /&gt;" Guid="2bddcea3-2fff-404f-b3c1-a74e8a7119d9" IsResponsive="True" ScopeSelectorArgument="&lt;wnd app='uidemo.exe' cls='HwndWrapper*' title='UiDemo' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="8ca08481-9f9f-42df-9470-5eba7ef60d67" CvTextArea="28, 95, 55, 12" CvTextArgument="Username" CvType="Text" DesignTimeRectangle="29, 93, 53, 16" ElementType="Text" FullSelectorArgument="&lt;ctrl name='Username' role='text' /&gt;&lt;ctrl name='Username' role='text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Username' role='text' /&gt;&lt;ctrl name='Username' role='text' automationid='' check:text='Username' /&gt;" Guid="8743e4c5-a8fc-4e97-bc39-cb60675601df" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="241376d04b9caec183c5e093f3b79763.png" xmlns="">0Q4ZzDKWifUC9YobHFH29tA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

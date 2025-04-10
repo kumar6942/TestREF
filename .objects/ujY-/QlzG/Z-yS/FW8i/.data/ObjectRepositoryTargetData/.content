@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="9i58xPr4CEWJZawQavlL4Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="8ca08481-9f9f-42df-9470-5eba7ef60d67" CvElementArea="98, 191, 77, 22" CvTextArea="119, 196, 34, 15" CvTextArgument="Log In" CvType="Button" DesignTimeRectangle="99, 192, 75, 20" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;ctrl name='Log In' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Log In' role='push button' automationid='' check:text='Log In' /&gt;" Guid="e82d7c94-d0a4-4f81-9bb4-15d514a32c85" ScopeSelectorArgument="&lt;wnd app='uidemo.exe' cls='HwndWrapper*' title='UiDemo' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="8ca08481-9f9f-42df-9470-5eba7ef60d67" CvElementArea="98, 191, 77, 22" CvTextArea="119, 196, 34, 15" CvTextArgument="Log In" CvType="Button" DesignTimeRectangle="120, 194, 33, 16" ElementType="Text" FullSelectorArgument="&lt;ctrl name='Log In' role='push button' /&gt;&lt;ctrl name='Log In' role='text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Log In' role='push button' /&gt;&lt;ctrl name='Log In' role='text' automationid='' check:text='Log In' /&gt;" Guid="74997c3c-5be7-4455-8502-cc44c9831295" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="55608ce154db49a3c9b72e256fcca5bf.png" xmlns="">0hMvVuLD39U2Vw5za6k3gpQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

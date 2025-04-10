@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="SSfOfR3RR0OYWWaxlWUKfw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="ef75f5c8-e2b0-4af2-b3c5-e3498f083546" CvElementArea="332, 246, 123, 26" CvType="InputBox" DesignTimeRectangle="333, 247, 120, 23" DesignTimeScaleFactor="1" ElementType="InputBox" FullSelectorArgument="&lt;ctrl automationid='notonustb' /&gt;" FuzzySelectorArgument="&lt;ctrl automationid='notonustb' role='editable text' /&gt;" Guid="43462bb8-c7f5-4b7f-b88c-657283087f27" IsResponsive="True" ScopeSelectorArgument="&lt;wnd app='uidemo.exe' cls='HwndWrapper*' title='UIDemo' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="ef75f5c8-e2b0-4af2-b3c5-e3498f083546" CvTextArea="202, 250, 111, 13" CvTextArgument="Not On Us Check" CvType="Text" DesignTimeRectangle="203, 249, 109, 16" ElementType="Text" FullSelectorArgument="&lt;ctrl name='Not On Us Check' role='text' /&gt;&lt;ctrl name='Not On Us Check' role='text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Not On Us Check' role='text' /&gt;&lt;ctrl name='Not On Us Check' role='text' automationid='' check:text='Not On Us Check' /&gt;" Guid="0db17593-1554-4e58-929a-6ac0aa92b17e" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b32369fb7fd217f47a93328b9cd27fcb.png" xmlns="">0STqP5FKOeEapQ6WAOyu1fg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
